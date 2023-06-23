@@ -1,2 +1,2 @@
-"I am a developer"
-"Hello World"
+example.txt:
+Hello, this is the feature branch.
