@@ -1,1 +1,2 @@
-"I am a developer"
+example.txt:
+Hello, this is the main branch.
